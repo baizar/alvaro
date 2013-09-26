@@ -1,1 +1,3 @@
-echo hola TidCAmpus!!
+echo Hi TidCAmpus!! How are you?
+
+echo Fine
