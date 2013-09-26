@@ -1,3 +1,5 @@
 #editamos el fichero
-Álvaro Arbáizar tengo 27 años, me gusta la tecnología y soy deportista.
-
+<nombre>Álvaro Arbáizar</nombre>
+<edad>27</edad>
+<ocio>Tecnología y deportes</ocio>
+<carrera>Ing. Inf. gestión e Inf Informático</carrera>
