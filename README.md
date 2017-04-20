@@ -10,6 +10,4 @@ carrera: Inf Gestion e Ing Informatica
 <ocio>Tecnología y deportes</ocio>
 <carrera>Ing. Inf. gestión e Inf Informático</carrera>
 
-
-CAMBIO
-aassss
+nueva rama
