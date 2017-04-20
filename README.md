@@ -1,11 +1,14 @@
 #HACEMOS UN MERGE ENTRE LAS DOS VERSIONES DE LA RAMA ALVARO Y LA RAMA MASTER
 #MASTER
-nombre: Álvaro Arbáizar
+nombre: Ãlvaro ArbÃ¡izar
 edad: 27
-ocio: Tecnología y deportes
+ocio: TecnologÃ­a y deportes
 carrera: Inf Gestion e Ing Informatica
 #ALVARO
-<nombre>Álvaro Arbáizar</nombre>
+<nombre>Ãlvaro ArbÃ¡izar</nombre>
 <edad>27</edad>
-<ocio>Tecnología y deportes</ocio>
-<carrera>Ing. Inf. gestión e Inf Informático</carrera>
+<ocio>TecnologÃ­a y deportes</ocio>
+<carrera>Ing. Inf. gestiÃ³n e Inf InformÃ¡tico</carrera>
+
+
+CAMBIO
